@@ -1,4 +1,16 @@
 title: rkusuma.github.io
 description: This is my new web page.
-minima :
-skin : dark
+# Remove or comment out the old theme line
+# theme: minima
+
+# Pull Minima v3 from GitHub
+remote_theme: jekyll/minima
+
+# Enable the remote theme plugin
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+# Set the dark skin configuration
+minima:
+  skin: dark
