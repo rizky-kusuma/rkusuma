@@ -1,5 +1,5 @@
 
-
+# Home
 ## About
 Hi! My name is Rizky Kusuma and I'm currently a sophomore at a senior high in Indonesia.
 My primary interest has been on Physics Olympiads, but recently, I've been building a problem solving model to aid that.
