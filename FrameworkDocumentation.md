@@ -1,3 +1,10 @@
+---
+layout: page
+title: 1.0 Introduction
+published: false
+
+---
+
 # 1.0 Introduction
 
 The problem solving framework I've developed essentially contains 10 assessment rubrics. This manuscript documents the progress and development of this framework which was conceived, after trials and errors with undocumented framework, on April 2nd 2026. Over its run (as of May 2026) the framework has gone a major change, noticeably in its implementation on question submission / analysis.
