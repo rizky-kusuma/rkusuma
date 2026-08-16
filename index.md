@@ -1,4 +1,8 @@
 ---
+layout: home
+title: ""
+
+---
 
 
 ## About
