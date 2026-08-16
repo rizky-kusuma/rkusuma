@@ -1,4 +1,3 @@
-
 # Home
 ## About
 Hi! My name is Rizky Kusuma and I'm currently a sophomore at a senior high in Indonesia.
