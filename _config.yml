@@ -1,3 +1,5 @@
 title: My New Site
 description: This is my new web page.
 theme: minima
+minima :
+skin : dark
