@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Framework Documentation
-published: false
 
 
 ---
